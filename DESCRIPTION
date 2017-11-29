@@ -36,7 +36,7 @@ Imports:
     IRanges,
     data.table (>= 1.9.6),
     parallel,
-    S4Vectors (>= 0.13.13),
+    S4Vectors,
     GenomeInfoDb,
     KernSmooth,
     qvalue,
